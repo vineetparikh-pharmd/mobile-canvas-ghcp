@@ -32,7 +32,7 @@
         "device-automation",
         "mcp"
       ],
-      "source": "."
+      "source": "./"
     }
   ]
 }
